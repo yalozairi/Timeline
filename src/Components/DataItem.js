@@ -3,7 +3,7 @@ import React from "react";
 //styling
 import { EventWrapper, Count } from "../styles";
 
-let i = 0;
+let i = 1;
 
 const DataItem = (props) => {
   return (

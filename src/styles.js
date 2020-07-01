@@ -42,6 +42,7 @@ const EventWrapper = styled.div`
   border-radius: 5px;
   margin: auto;
   width: 50%;
+  margin-bottom: 30px;
 
   p {
     &.event-name {
